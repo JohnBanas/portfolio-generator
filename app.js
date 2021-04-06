@@ -17,7 +17,7 @@ const printProfileData = profileDataArr => {
   // profileDataArr.forEach((profileItem) => {
   //   console.log(profileItem)
   // });
-
+  // also the above,
   //is the same as...
 
   profileDataArr.forEach(profileItem => console.log(profileItem));
